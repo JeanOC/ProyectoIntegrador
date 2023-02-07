@@ -1,0 +1,15 @@
+.fa-cart-plus{
+    color: rgb(73, 120, 190);
+    width: 40px;
+    cursor: pointer;
+}
+
+.font-weight-normal{
+    cursor: pointer;
+}
+
+.form-control{
+    border-radius: 3px;
+    width: 600px;
+    margin-left: 0px;
+}
